@@ -56,6 +56,7 @@
     margin-right: 0.25em;
     background-color: #f37bd9;
     border-radius: 10%;
+   
   }
   
   button.show-list {
@@ -78,6 +79,11 @@
     button.show-list {
       width: 25%;
       font-size: 1.5em;
+      background-color: #f37bd9;
+      border: none;
+      border-radius: 25px;
+      cursor: pointer;
+      box-shadow:0px 5px 5px 0px rgba(0,0,0, 0.2);
     }
 }
 
